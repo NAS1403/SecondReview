@@ -1,5 +1,6 @@
 #!/bin/bash -x
 
+echo "enter"
 read -p "Enter the number to be reversed: " Num
 
 while (($Num!=0))

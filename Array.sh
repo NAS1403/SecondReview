@@ -11,6 +11,7 @@ do
 	if ((${Myarray[i]}==$num))
 	then
 		value=${Myarray[i]}
+		break
 	fi
 done
 
